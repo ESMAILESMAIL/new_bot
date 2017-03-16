@@ -1,4 +1,4 @@
-# [BDReborn](https://telegram.me/BDReborn)
+# [SUDO USER ON TELEGRAM](https://telegram.me/EsMailMa)
 
 **An advanced and powerful administration bot based on NEW TG-CLI
 
@@ -20,8 +20,8 @@
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/BeyondTeam/BDReborn.git
-cd BDReborn
+git clone https://github.com/ESMAILESMAIL/new_bot.gi
+cd new_bot
 chmod +x beyond.sh
 ./beyond.sh install
 ./beyond.sh 
