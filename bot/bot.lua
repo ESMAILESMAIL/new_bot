@@ -75,7 +75,7 @@ function create_config( )
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[》Beyond Reborn v4.0
+    info_text = [[》E.MK AntiSpam Bot 1.0
 An advanced administration bot based on https://valtman.name/telegram-cli
 
 --==E.MK==--
