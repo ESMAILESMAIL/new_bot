@@ -71,37 +71,25 @@ function create_config( )
 		"fun",
 		"info"
 	},
-    sudo_users = {157059515},
+    sudo_users = {209270188},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
     info_text = [[》Beyond Reborn v4.0
 An advanced administration bot based on https://valtman.name/telegram-cli
 
-》https://github.com/BeyondTeam/BDReborn 
+--==E.MK==--
 
 》Admins :
-》@SoLiD ➣ Founder & Developer《
-》@Makan ➣ Developer《
-》@Rixel ➣ Developer 《
-》@Exacute ➣ Developer《
-》@To0fan ➣ Developer《
-》@CiveY ➣ Developer
-》@ArmanDev ➣ Manager《
-》@MrPars ➣ Manager《
+》@EsMailMa
 
-》Special thanks to :
-》@Vysheng
-》@MrHalix
-》@K_a_I_i_I_i_n_u_x
-》@Nero_Dev
-》And Beyond Team Members
+
 
 》Our channel :
-》@BeyondTeam《
+》@OFFTEAM
 
 》Our website :
-》http://BeyondTeam.ir
+》Not Found
 ]],
   }
 	serialize_to_file(config, './data/config.lua')
