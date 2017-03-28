@@ -233,8 +233,8 @@ if matches[1] == 'voice' then
       return nil
       else
   local url = "http://tts.baidu.com/text2audio?lan=en&ie=UTF-8&text="..textc
-  local file = download_to_file(url,'BD-Reborn.mp3')
- 				tdcli.sendDocument(msg.to.id, 0, 0, 1, nil, file, '@BeyondTeam', dl_cb, nil)
+  local file = download_to_file(url,'D4NGER-TEAM.mp3')
+ 				tdcli.sendDocument(msg.to.id, 0, 0, 1, nil, file, '@D4NGER_TEAM', dl_cb, nil)
    end
 end
 
